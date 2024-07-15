@@ -1,0 +1,1 @@
+Product Variant selector for shopify single product page. This snippets will add variant id in url. This is the easiest version of Product variant selector. This code is written from a Youtube video tutorial, The channel name is Coding with robby
